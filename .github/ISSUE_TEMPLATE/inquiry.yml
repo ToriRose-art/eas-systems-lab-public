@@ -1,0 +1,105 @@
+name: Work with me inquiry
+description: Request help turning a messy workflow, lead process, or offer system into a simple execution system.
+title: "[Inquiry]: "
+labels: ["inquiry", "work-with-me"]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name or business name
+      placeholder: Your name or business name
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Best contact method
+      placeholder: Email, LinkedIn, website contact form, or other preferred method
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Website or profile link
+      placeholder: https://...
+    validations:
+      required: false
+  - type: textarea
+    id: workflow_problem
+    attributes:
+      label: What kind of workflow or follow-up problem do you want cleaned up?
+      placeholder: Tell me what feels scattered, manual, hard to track, or easy to forget.
+    validations:
+      required: true
+  - type: checkboxes
+    id: messy_inputs
+    attributes:
+      label: Where do the messy inputs currently live?
+      options:
+        - label: DMs
+        - label: email
+        - label: forms
+        - label: spreadsheet
+        - label: CRM
+        - label: notes/docs
+        - label: calls
+        - label: comments
+        - label: other
+  - type: textarea
+    id: system_goal
+    attributes:
+      label: What do you want the system to help you do next?
+      placeholder: Examples: capture leads, follow up faster, organize notes, prepare outreach, create proof assets.
+    validations:
+      required: true
+  - type: textarea
+    id: seven_day_value
+    attributes:
+      label: What would make this useful within 7 days?
+      placeholder: Describe the first useful outcome you would want quickly.
+    validations:
+      required: true
+  - type: dropdown
+    id: existing_demand
+    attributes:
+      label: Do you already have leads/prospects/customers coming in?
+      options:
+        - "yes"
+        - "no"
+        - "somewhat"
+    validations:
+      required: true
+  - type: dropdown
+    id: preferred_deliverable
+    attributes:
+      label: Preferred deliverable
+      options:
+        - audit
+        - tracker
+        - follow-up system
+        - intake cleanup
+        - proof/demo asset
+        - offer/inquiry page
+        - workflow handoff
+        - not sure
+    validations:
+      required: true
+  - type: dropdown
+    id: budget_range
+    attributes:
+      label: Budget range
+      options:
+        - under $500
+        - $500-$1,000
+        - $1,000-$2,500
+        - $2,500+
+        - not sure yet
+    validations:
+      required: true
+  - type: textarea
+    id: anything_else
+    attributes:
+      label: Anything else I should know?
+      placeholder: Share context, constraints, timing, links, or questions. Do not include credentials, secrets, or sensitive customer data.
+    validations:
+      required: false
