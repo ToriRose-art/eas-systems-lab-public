@@ -1,136 +1,81 @@
-﻿# EAS Systems Lab
+# Elite Adaptive Solutions — Product & Systems Lab
 
-## What this is
+**Practical AI systems, context-continuity tools, research, and proof-driven workflow products.**
 
-EAS Systems Lab is a build-in-public workspace for creating AI-assisted systems that help turn messy ideas, buyer signals, prospects, and workflows into usable execution assets.
+This public GitHub is the technical proof and discovery surface for Elite Adaptive Solutions (EAS). It is built for people who want to see what is being made, how it works, and where to try or buy it.
 
-The work is practical and operator-focused:
+## Start here
 
-- Messy inputs become organized records.
-- Buyer signals become next actions.
-- Workflows become checklists, dashboards, and handoffs.
-- Offers become clearer inquiry pages and proof assets.
+### Free research feed
+Follow **EAS Research** for practical research, product notes, AI workflow findings, and new releases.
 
-## What I build
+**→ [Read EAS Research](https://easresearch.substack.com)**
 
-- Buyer research systems
-- Prospect capture and scoring systems
-- Intake normalizers
-- Proof/demo asset builders
-- Inquiry and offer shelf pages
-- Workflow handoff docs
-- Lightweight Airtable/Sheets/Make/Zapier-style operations systems
-- Codex/ChatGPT workflow systems
-- Follow-up systems
-- Simple CRM cleanup systems
-- Build-in-public documentation systems
+## Live products
 
-## Current build focus
+### R&D Entry-Maker — Writer Kit
+A context and reflection system for turning decisions, observations, and useful personal context into a reusable record.
 
-The current sprint is building a reusable AI-assisted workflow stack for:
+**→ [View / buy the Writer Kit](https://whop.com/elite-adaptive-solutions-llc/r-d-entry-maker-writer-kit/)**
 
-- Researching demand
-- Normalizing messy inputs
-- Routing prospects and signals
-- Turning findings into proof assets and offers
-- Creating lightweight workflow systems
-- Making build activity visible enough to share publicly
+### R&D Entry-Maker — Dev Kit
+A structured context-logging system for developers and operators who need portable business context, decision evidence, and AI-ready documentation.
 
-## Why this matters
+**→ [View / buy the Dev Kit](https://whop.com/elite-adaptive-solutions-llc/r-d-entry-maker-dev-kit/)**
 
-Most operators do not need giant custom software first.
+### R&D Entry-Maker — Agency Kit
+A context-continuity package designed for agency and team workflows where decisions, evidence, handoffs, and reusable context need to stay organized.
 
-They usually need:
+**→ [View / buy the Agency Kit](https://whop.com/elite-adaptive-solutions-llc/r-d-entry-maker-agency-kit/)**
 
-- Cleaner intake
-- Better follow-up
-- Clearer offers
-- Faster proof assets
-- Organized prospect tracking
-- Simple systems they can actually use
-- Fewer scattered notes, tabs, docs, and forgotten leads
+### EAS R&D Feed
+Ongoing EAS research and development intelligence for people following practical AI systems, workflows, and product experiments.
 
-## Ways I can help
+**→ [View the R&D Feed](https://whop.com/elite-adaptive-solutions-llc/r-d-feed-subscription/)**
 
-### AI Workflow Audit
-- What it is: A focused review of an existing workflow to identify where AI, automation, or better structure can reduce friction.
-- Best for: Operators who know something is messy but are not sure where to start.
-- Deliverable: Workflow notes, improvement map, and prioritized next steps.
-- Starting point: Fixed-scope package
+## What you will find here
 
-### Prospect Tracker Setup
-- What it is: A simple system for capturing prospects, buyer signals, source links, status, and next actions.
-- Best for: Founders, consultants, and service businesses tracking leads across tabs, DMs, comments, calls, and notes.
-- Deliverable: Tracker structure, fields, statuses, and a repeatable capture workflow.
-- Starting point: Starting at $___
+- Public build notes
+- Sanitized examples
+- Product and workflow proof
+- Demo assets
+- Research-backed experiments
+- Machine-readable discovery work
+- AI workflow and agent-readiness testing
+- Documentation and implementation patterns
 
-### Follow-Up System Setup
-- What it is: A lightweight follow-up workflow that makes leads, replies, reminders, and next actions visible.
-- Best for: Operators with interest coming in but no reliable follow-up rhythm.
-- Deliverable: Follow-up stages, reminder rules, message notes, and tracking view.
-- Starting point: Priced per scope
+## Proof over promises
 
-### Buyer Research Sprint
-- What it is: A short research sprint to identify buyer language, demand signals, reachable prospects, and product-buyer fit.
-- Best for: Builders testing an offer, service, tool, or workflow before investing in a larger system.
-- Deliverable: Demand signal summary, buyer types, prospect list, proof asset recommendation, and next action plan.
-- Starting point: Fixed-scope package
+EAS uses public artifacts to show the work rather than relying only on marketing claims. Repositories, build logs, demos, structured documentation, and live product surfaces are used as evidence of what has actually been built and tested.
 
-### Proof Asset / Demo Pack
-- What it is: A practical demo or proof package that explains what a system does and why it matters.
-- Best for: Operators who need something concrete to show before outreach, sales calls, or public posting.
-- Deliverable: Demo outline, proof notes, screenshots or placeholders, captions, and buyer-facing summary.
-- Starting point: Priced per scope
+## Selected capabilities
 
-### Intake Cleanup System
-- What it is: A process for turning messy notes, forms, comments, copied snippets, research, and links into clean records.
-- Best for: People collecting useful information but losing it before it becomes action.
-- Deliverable: Intake structure, normalized fields, routing rules, and review checklist.
-- Starting point: Starting at $___
+- AI workflow design and evaluation
+- Agent and LLM QA/testing
+- API and automation workflows
+- GitHub/Vercel deployment workflows
+- Technical research and documentation
+- Machine-readable product and discovery surfaces
+- Context-continuity systems
+- Proof/demo asset development
 
-### Lightweight CRM Cleanup
-- What it is: A cleanup of simple prospect, client, or contact tracking so the important records and next steps are visible.
-- Best for: Small service businesses, consultants, and solo operators with scattered CRM or spreadsheet data.
-- Deliverable: Cleaned fields, statuses, views, tags, and follow-up notes.
-- Starting point: Priced per scope
+## Contract and project work
 
-### Offer Shelf Page
-- What it is: A clear buyer-facing page or outline that explains an offer, who it is for, what is included, and how to inquire.
-- Best for: Service providers who have useful work but need it packaged into something understandable and purchasable.
-- Deliverable: Offer page draft, CTA structure, FAQ, and inquiry path.
-- Starting point: Fixed-scope package
+I also take **bounded, async-friendly paid work** where the scope and deliverable are clear — including QA/testing, AI workflow evaluation, technical research, documentation, automation, API/integration work, and deployment-oriented projects.
 
-## Example problems this helps with
+GitHub's native **Available for hire** status is the primary hiring signal on this profile.
 
-- “I have leads but no follow-up system.”
-- “I keep losing notes from calls, DMs, forms, or comments.”
-- “I know people are interested, but I do not have a clean way to track them.”
-- “My offer is scattered across docs, posts, and conversations.”
-- “I need a simple proof asset before I start outreach.”
-- “I keep explaining the same workflow manually.”
-- “I want to use AI, but I need it tied to a real process.”
+For a concrete project inquiry, you can still **[open a GitHub inquiry issue](../../issues/new?template=inquiry.yml)**. Please do not include credentials, API keys, client secrets, or sensitive customer data.
 
-## Current status
+## Elsewhere
 
-This repo is early, active, and being built in public.
-
-The focus is on creating clear public notes, sanitized examples, proof assets, and offer drafts that show how practical AI-assisted execution systems are built.
-
-## Work with me
-
-If you have messy leads, missed follow-ups, scattered notes, unclear offers, or a workflow you keep explaining manually, I can help turn it into a simple system.
-
-Contact / inquiry:
-- Start an inquiry: [Open a GitHub inquiry issue](../../issues/new?template=inquiry.yml)
-- LinkedIn: [https://www.linkedin.com/company/elite-adaptive-solutions-llc/about]
-- GitHub: [https://github.com/ToriRose-art]
-- Build log: ./build-log/
-
-If you use the GitHub inquiry form, avoid sharing private credentials, API keys, client secrets, or sensitive customer data.
+- **EAS Research:** https://easresearch.substack.com
+- **LinkedIn:** https://www.linkedin.com/company/elite-adaptive-solutions-llc/about
+- **GitHub:** https://github.com/ToriRose-art
 
 ## Repo map
 
-- /build-log — build-in-public notes
-- /proof-assets — demo/proof examples
-- /offers — offer and inquiry shelf drafts
-- /examples — sanitized examples
+- `/build-log` — build-in-public notes
+- `/proof-assets` — demo and proof examples
+- `/offers` — product and offer artifacts
+- `/examples` — sanitized examples
