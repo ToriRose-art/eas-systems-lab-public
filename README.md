@@ -1,6 +1,6 @@
 # Elite Adaptive Solutions — Product & Systems Lab
 
-**Practical AI systems, context-continuity tools, research, and proof-driven workflow products.**
+**Practical AI systems, context-continuity tools, research, QA evaluation, and proof-driven workflow products.**
 
 This public GitHub is the technical proof and discovery surface for Elite Adaptive Solutions (EAS). It is built for people who want to see what is being made, how it works, and where to try or buy it.
 
@@ -33,6 +33,15 @@ Ongoing EAS research and development intelligence for people following practical
 
 **→ [View the R&D Feed](https://whop.com/elite-adaptive-solutions-llc/r-d-feed-subscription/)**
 
+## Coming soon
+
+### QA Evaluation
+Structured **quality assurance testing and evaluation for AI outputs, agent workflows, automations, and real-world use cases**.
+
+The release model is still being tested and may be offered as fixed-scope evaluation work, usage credits, or a combination of both.
+
+**Status: Coming soon.**
+
 ## What you will find here
 
 - Public build notes
@@ -42,6 +51,7 @@ Ongoing EAS research and development intelligence for people following practical
 - Research-backed experiments
 - Machine-readable discovery work
 - AI workflow and agent-readiness testing
+- QA evaluation methods
 - Documentation and implementation patterns
 
 ## Proof over promises
@@ -52,6 +62,7 @@ EAS uses public artifacts to show the work rather than relying only on marketing
 
 - AI workflow design and evaluation
 - Agent and LLM QA/testing
+- AI output quality assurance
 - API and automation workflows
 - GitHub/Vercel deployment workflows
 - Technical research and documentation
