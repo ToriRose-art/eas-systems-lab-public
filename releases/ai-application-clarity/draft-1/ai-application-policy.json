@@ -1,0 +1,35 @@
+{
+  "standard": "ai-application-clarity",
+  "version": "0.2",
+  "publisher": "",
+  "policy_url": "",
+  "scope": "This application",
+  "ai_use_status": "allowed",
+  "allowed_uses": [
+    "drafting",
+    "organizing",
+    "formatting",
+    "accessibility",
+    "translation",
+    "submission_support"
+  ],
+  "disclosure": {
+    "required": false,
+    "method": "not_required"
+  },
+  "optional_attestations": {
+    "human_applicant": true,
+    "verification_willingness": true
+  },
+  "identity_verification": {
+    "provided_by_this_standard": false,
+    "organization_process_url": ""
+  },
+  "applicant_responsibility": [
+    "accuracy",
+    "truthfulness",
+    "final_review"
+  ],
+  "privacy_notice_url": "",
+  "last_reviewed": ""
+}
