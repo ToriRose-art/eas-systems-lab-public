@@ -32,6 +32,11 @@ These are selected public examples—not a claim that every internal EAS system,
 
 This repository is our central public reference point for professional work and publications. Additional approved demonstrations or developer showcases can be linked here as they become available.
 
+## Contact & Portfolio
+
+- **Business inquiries:** [work@eliteadaptivesolutions.com](mailto:work@eliteadaptivesolutions.com)
+- **Technical portfolio:** [Explore selected technical work](https://technical-operations-portfolio.tiny-seed-9308.chatgpt.site/)
+
 ---
 
 # AI Application Clarity Standard
