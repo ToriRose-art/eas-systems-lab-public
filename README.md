@@ -35,7 +35,7 @@ This repository is our central public reference point for professional work and 
 ## Contact & Portfolio
 
 - **Business inquiries:** [work@eliteadaptivesolutions.com](mailto:work@eliteadaptivesolutions.com)
-- **Technical portfolio:** [Explore selected technical work](https://technical-operations-portfolio.vercel.app/)
+- **Technical portfolio:** [VWF Technical Portfolio — current Vercel site](https://technical-operations-portfolio.vercel.app/)
 
 ---
 
